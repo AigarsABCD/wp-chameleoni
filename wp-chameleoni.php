@@ -3,9 +3,7 @@
 Plugin Name: Chameleoni integration
 Description: Plugin for sending CVs to Chameleoni
 Version: 1.0.0
-Author: Wave
-Author URI: http://www.wave-digital.co.uk
-Text Domain: chameleoni
+Author: Aigars
 */
 
 require_once( plugin_dir_path( __FILE__ ) . 'chameleoni.class.php' );
